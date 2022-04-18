@@ -1,0 +1,7 @@
+Dummy data for tweets
+Apple
+Kiwi
+Banana
+Orange
+Plum
+Peach
